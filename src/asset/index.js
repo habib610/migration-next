@@ -1,3 +1,4 @@
-import profile from "./images/profile.jpg";
+import profile from "../../public/profile.jpg";
+import city from "../../public/city.jpg";
 
-export { profile };
+export { profile, city };
